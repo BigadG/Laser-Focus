@@ -1,0 +1,16 @@
+{
+	"name": "Laser Focus",
+	"version": "1.0",
+	"manifest_version": 3,
+	"description": "Displays focus score based on browsing history for the day.",
+	"icons": {
+
+	},
+	"action": {
+	  "default_popup": "popup.html"
+	},	
+	"permissions": [
+	  "history"
+	]
+  }
+  

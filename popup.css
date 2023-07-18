@@ -1,0 +1,24 @@
+.container {
+    width: 280px;
+    height: 100px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0px;
+    margin: 0px;
+  }
+  
+    h2 {
+      text-align: center;
+    color: rgb(7, 243, 7);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 55px;
+    background-color: black;
+    padding: 0px;
+    margin-top: 10px;
+    margin-bottom: 20px
+  }
+      
